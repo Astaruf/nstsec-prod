@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hello World!</title>
-    <link>http://localhost:1313/</link>
+    <link>https://astaruf.github.io/nstsec-prod/</link>
     <description>Recent content on Hello World!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astaruf.github.io/nstsec-prod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Contribution Featured in Hacker Journal N.275</title>
-      <link>http://localhost:1313/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</link>
       <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</guid>
       <description>HackerJournal holds a special place in my heart, it’s one of the magazines I grew up reading as a kid, diving into its pages to fuel my passion for hacking and technology. For Italian enthusiasts like me, it’s been a true gateway into the world of ethical hacking and cybersecurity.&#xA;The Article: &amp;ldquo;I Know Where You Post From&amp;rdquo; In particular, my article, titled &amp;ldquo;So da dove posti&amp;rdquo; (I Know Where You Post From), appears on page 36.</description>
     </item>
     <item>
       <title>How I Solved the Unlock Security OSINT Challenge</title>
-      <link>http://localhost:1313/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</link>
       <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</guid>
       <description>Inspired by the many challenges by Gary Ruddell (LinkedIn Profile), Unlock Security (LinkedIn Profile) has introduced a rather unique OSINT challenge: no contextual information and just a single blurry photo with few visible details.&#xA;🔎 The Challenge: Can you determine the location where this photo was taken?&#xA;Step 1: Using Face Recognition To begin, I used facecheck.id, an online face recognition tool, to identify if the person in the photo appears on any public platform or social media.</description>
     </item>
     <item>
       <title>My OSCP Journey - Tips, Tricks and Cheat Sheets</title>
-      <link>http://localhost:1313/posts/2023/05/my-oscp-journey-tips-tricks-and-cheat-sheets/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/2023/05/my-oscp-journey-tips-tricks-and-cheat-sheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2023/05/my-oscp-journey-tips-tricks-and-cheat-sheets/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/2023/05/my-oscp-journey-tips-tricks-and-cheat-sheets/</guid>
       <description>Welcome! I’m excited to introduce a project I’ve been working on during my preparation for the Offensive Security Certified Professional (OSCP) certification.&#xA;On my GitBook, you’ll find:&#xA;Detailed cheatsheets covering penetration testing methodologies. Useful commands and quick references. Lessons learned and practical tips from my OSCP journey. The goal is to provide a resource for anyone aiming to tackle and successfully pass this prestigious ethical hacking certification.&#xA;What You&amp;rsquo;ll Find The guide is structured to cover the key areas of OSCP preparation, with chapters dedicated to:</description>
     </item>
     <item>
       <title>CVE-2022-44023</title>
-      <link>http://localhost:1313/posts/2022/10/cve-2022-44023/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/2022/10/cve-2022-44023/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2022/10/cve-2022-44023/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/2022/10/cve-2022-44023/</guid>
       <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses CVE Detail PwnDoc through version 0.5.3 might allow remote attackers to identify disabled user account names by leveraging response messages during authentication attempts.&#xA;Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44023 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables username enumeration of disabled accounts in PwnDoc (tested on version 0.5.3 - 2022-07-19) by observing server responses to login attempts.&#xA;Example Scenario: Suppose the following users were registered and subsequently disabled in PwnDoc:</description>
     </item>
     <item>
       <title>CVE-2022-44022</title>
-      <link>http://localhost:1313/posts/2022/10/cve-2022-44022/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/2022/10/cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2022/10/cve-2022-44022/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/2022/10/cve-2022-44022/</guid>
       <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings CVE Detail PwnDoc through version 0.5.3 allows remote attackers to identify valid user account names by leveraging response timings during authentication attempts.&#xA;Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44022 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables user enumeration in PwnDoc (tested on version 0.5.3 - 2022-07-19 and earlier) by observing web server response times during login attempts.&#xA;Example Scenario: Suppose the following users are registered in PwnDoc:</description>
     </item>
     <item>
       <title>CVE-2020-13654</title>
-      <link>http://localhost:1313/posts/2020/12/cve-2020-13654/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/2020/12/cve-2020-13654/</link>
       <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2020/12/cve-2020-13654/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/2020/12/cve-2020-13654/</guid>
       <description>XWiki Platform &amp;lt; 12.8 - Stored Cross Site Scripting (XSS) CVE Detail In XWiki Platform before version 12.8, certain fields like &amp;ldquo;Company&amp;rdquo; in the user profile editing section are vulnerable to Stored Cross Site Scripting (XSS) attacks due to improper escaping.&#xA;Vulnerability Summary Product CVE CVSSv3 Score CWE XWiki CVE-2020-13654 7.5 (High) CWE-116 Exploitation Steps This vulnerability allows an attacker to inject malicious scripts into certain fields (e.g., &amp;ldquo;Company&amp;rdquo;) in the user profile section, which are subsequently executed in the browser of any user accessing the page.</description>
     </item>
   </channel>
