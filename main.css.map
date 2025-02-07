@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/kali/Projects/hugo_new/nstsec-dev/nstsec",
+	"sourceRoot": "/home/kali/Projects/hugo_new_definitive/nstsec-dev/nstsec",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
