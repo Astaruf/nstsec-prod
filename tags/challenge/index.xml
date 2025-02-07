@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Challenge on Hello World!</title>
+    <link>https://example.com/tags/challenge/</link>
+    <description>Recent content in Challenge on Hello World!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
+    <atom:link href="https://example.com/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Contribution Featured in Hacker Journal N.275</title>
+      <link>https://example.com/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</link>
+      <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
+      <guid>https://example.com/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</guid>
+      <description>HackerJournal holds a special place in my heart, it’s one of the magazines I grew up reading as a kid, diving into its pages to fuel my passion for hacking and technology. For Italian enthusiasts like me, it’s been a true gateway into the world of ethical hacking and cybersecurity.&#xA;The Article: &amp;ldquo;I Know Where You Post From&amp;rdquo; In particular, my article, titled &amp;ldquo;So da dove posti&amp;rdquo; (I Know Where You Post From), appears on page 36.</description>
+    </item>
+    <item>
+      <title>How I Solved the Unlock Security OSINT Challenge</title>
+      <link>https://example.com/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</link>
+      <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
+      <guid>https://example.com/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</guid>
+      <description>Inspired by the many challenges by Gary Ruddell (LinkedIn Profile), Unlock Security (LinkedIn Profile) has introduced a rather unique OSINT challenge: no contextual information and just a single blurry photo with few visible details.&#xA;🔎 The Challenge: Can you determine the location where this photo was taken?&#xA;Step 1: Using Face Recognition To begin, I used facecheck.id, an online face recognition tool, to identify if the person in the photo appears on any public platform or social media.</description>
+    </item>
+  </channel>
+</rss>
