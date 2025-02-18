@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/it/categories/</loc>
+    <loc>http://localhost:1313/nstsec-prod/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/nstsec-prod/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/categories/"
+                href="http://localhost:1313/nstsec-prod/it/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/</loc>
+    <loc>http://localhost:1313/nstsec-prod/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/nstsec-prod/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/"
+                href="http://localhost:1313/nstsec-prod/it/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/series/</loc>
+    <loc>http://localhost:1313/nstsec-prod/it/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="http://localhost:1313/nstsec-prod/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/series/"
+                href="http://localhost:1313/nstsec-prod/it/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/it/tags/</loc>
+    <loc>http://localhost:1313/nstsec-prod/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/nstsec-prod/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="http://localhost:1313/it/tags/"
+                href="http://localhost:1313/nstsec-prod/it/tags/"
                 />
   </url>
 </urlset>

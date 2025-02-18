@@ -1,0 +1,321 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello World!</title>
+        <link>http://localhost:1313/nstsec-prod/posts/</link>
+        <description>Recent content in Posts on Hello World!</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
+        <atom:link href="http://localhost:1313/nstsec-prod/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My Contribution Featured in Hacker Journal N.275</title>
+            <link>http://localhost:1313/nstsec-prod/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</link>
+            <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
+            
+            <guid>http://localhost:1313/nstsec-prod/posts/2024/01/my-contribution-featured-in-hacker-journal-n.275/</guid>
+            <description>HackerJournal holds a special place in my heart, it’s one of the magazines I grew up reading as a kid, diving into its pages to fuel my passion for hacking and technology. For Italian enthusiasts like me, it’s been a true gateway into the world of ethical hacking and cybersecurity.
+The Article: &amp;ldquo;I Know Where You Post From&amp;rdquo; In particular, my article, titled &amp;ldquo;So da dove posti&amp;rdquo; (I Know Where You Post From), appears on page 36.</description>
+            <content type="html"><![CDATA[<p><strong><a href="https://hackerjournal.it/">HackerJournal</a></strong> holds a special place in my heart, it’s one of the magazines I grew up reading as a kid, diving into its pages to fuel my passion for hacking and technology. For Italian enthusiasts like me, it’s been a true gateway into the world of ethical hacking and cybersecurity.</p>
+<h2 id="the-article-i-know-where-you-post-from">The Article: &ldquo;I Know Where You Post From&rdquo;</h2>
+<p><img alt="HackerJournal 275" src="image-hacker-journal-275.png"></p>
+<p>In particular, my article, titled <strong>&ldquo;So da dove posti&rdquo;</strong> (I Know Where You Post From), appears on page 36. It details the process I followed to geolocate an individual using only <strong>open source intelligence (OSINT)</strong> techniques, starting with a single public photo.</p>
+<p>This article expands upon the methodology I previously shared in my post <strong><a href="https://nstse.com/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/">How I Solved the Unlock Security OSINT Challenge</a></strong>, where I explained in detail how I solved a similar OSINT challenge. If you&rsquo;re interested in reading the full solution, you can check out the article for more in-depth insights.</p>
+<p>Sharing this methodology is a step toward raising greater awareness about <strong>online privacy</strong> and the risks of sharing seemingly harmless information online.</p>
+<hr>
+<h2 id="get-your-copy">Get Your Copy</h2>
+<p>The January issue (N.275) of HackerJournal is now available for purchase. You can grab your copy here:<br>
+👉 <strong><a href="https://sprea.it/rivista/37241-hacker-journal-n275">HackerJournal N.275 - Sprea Editori</a></strong></p>
+<p>Thank you for your support, and I hope this article inspires others to explore OSINT while being mindful of their digital footprint.</p>
+<hr>
+<h2 id="gratitude">Gratitude</h2>
+<p>A heartfelt thank you to <strong><a href="https://sprea.it/">Sprea Editori</a></strong> and <strong><a href="https://www.unlock-security.it/it/">Unlock Security</a></strong> for giving me this incredible opportunity to contribute to such a respected publication.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>How I Solved the Unlock Security OSINT Challenge</title>
+            <link>http://localhost:1313/nstsec-prod/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</link>
+            <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
+            
+            <guid>http://localhost:1313/nstsec-prod/posts/2023/09/how-i-solved-the-unlock-security-osint-challenge/</guid>
+            <description>Inspired by the many challenges by Gary Ruddell (LinkedIn Profile), Unlock Security (LinkedIn Profile) has introduced a rather unique OSINT challenge: no contextual information and just a single blurry photo with few visible details.
+🔎 The Challenge: Can you determine the location where this photo was taken?
+Step 1: Using Face Recognition To begin, I used facecheck.id, an online face recognition tool, to identify if the person in the photo appears on any public platform or social media.</description>
+            <content type="html"><![CDATA[<p>Inspired by the many challenges by Gary Ruddell (<a href="https://www.linkedin.com/in/ACoAAB0PF74Bb5hHXaoZavHdXbLRaTkWZIIBe7I">LinkedIn Profile</a>), Unlock Security (<a href="https://www.linkedin.com/company/unlock-security/">LinkedIn Profile</a>) has introduced a rather unique OSINT challenge: no contextual information and just a single blurry photo with few visible details.</p>
+<p><img alt="Original Image" src="image-0.png"><br>
+🔎 <strong>The Challenge</strong>: Can you determine the location where this photo was taken?</p>
+<h2 id="step-1-using-face-recognition">Step 1: Using Face Recognition</h2>
+<p>To begin, I used <strong>facecheck.id</strong>, an online face recognition tool, to identify if the person in the photo appears on any public platform or social media.</p>
+<p><img alt="FaceCheck Results" src="image-1.png"></p>
+<p>The results returned several public profiles with similar facial features. Among them, one matched the original image perfectly.</p>
+<p><img alt="Identical Match" src="image-2.png"></p>
+<p>This individual appears to be the same person. I followed the link to the site where this photo was published, <strong>fapello.com</strong>, an adult content website.</p>
+<p><img alt="Fapello Profile" src="image-3.png"></p>
+<p>Under the photo, two nicknames were listed: <strong>kat3martynova</strong> and <strong>katmartynova1</strong>. Searching on Instagram, I found her public profile: <a href="https://www.instagram.com/kat3martynova/">kat3martynova</a>.</p>
+<p><img alt="Instagram Profile" src="image-4.png"></p>
+<hr>
+<h2 id="step-2-analyzing-instagram-stories">Step 2: Analyzing Instagram Stories</h2>
+<p>Looking at the Instagram Stories collection titled <strong>Адам и Ева</strong>, I immediately recognized the blurred objects from the original photo, which I couldn’t previously interpret.</p>
+<p>They turned out to be fake apple tree installations represented by glowing red lights.</p>
+<p><img alt="Instagram Story - Adam and Eve" src="image-5.png"><br>
+<img alt="Red Apple Tree Installations" src="image-6.png"></p>
+<p>From the page source code, I copied the title <strong>“Адам и Ева”</strong> and translated it from Russian to English using <strong>deepl.com</strong>.</p>
+<p><img alt="Source Code" src="image-7.png"><br>
+<img alt="Translation" src="image-8.png"></p>
+<p>In one of the Instagram Stories, the person enters a venue clearly labeled <strong>Adam &amp; Eve</strong>, as shown on a sign in the background.</p>
+<p><img alt="Adam &amp; Eve Venue" src="image-9.png"></p>
+<hr>
+<h2 id="step-3-identifying-the-venue">Step 3: Identifying the Venue</h2>
+<p>Using Google Images, I found multiple photos of the venue. From the available links, it appears to be a nightclub within an adult-only hotel: <a href="https://www.adamevehotel.com/">Adam &amp; Eve Hotel</a>.</p>
+<p><img alt="Google Image Results" src="image-10.png"><br>
+<img alt="Venue Photos" src="image-11.png"></p>
+<p>Searching for the <strong>Adam &amp; Eve Hotel</strong> on Google Maps, I located the place.</p>
+<p><img alt="Google Maps Location" src="image-12.png"></p>
+<hr>
+<h2 id="step-4-pinpointing-the-exact-spot">Step 4: Pinpointing the Exact Spot</h2>
+<p>Returning to the original photo, I identified some key details that helped me determine the exact spot where the photo was taken:</p>
+<ol>
+<li>White speakers at the top (green arrows).</li>
+<li>One or more white columns in sequence on the left (yellow arrows).</li>
+<li>A mirrored wall starting on the right (blue arrows).</li>
+</ol>
+<p><img alt="Analyzing Details" src="image-13.png"></p>
+<p>Examining the Adam &amp; Eve Hotel website, in the <strong>Gallery</strong> section (<a href="https://www.adamevehotel.com/EN/gallery">Gallery Page</a>), I found multiple photos of the hotel’s bars. These images matched the original photo with the same speakers, columns, and mirrored wall.</p>
+<p><img alt="Gallery Match" src="image-14.png"></p>
+<p>Finally, using <strong>wikimapia.com</strong>, I pinpointed the exact spot on the map and identified the bar within the hotel’s structure.</p>
+<p><img alt="Exact Location" src="image-15.png"></p>
+<p>It can now be stated with high certainty that the photo of the individual was taken inside the <strong>Bar</strong> of the <strong>Adam &amp; Eve Hotel</strong>, specifically at:</p>
+<p><strong>R3X9+R2 Serik District, Antalya Province, Turkey</strong> (<a href="https://maps.app.goo.gl/tjL2SSrQ8GGe1ieA6">Google Maps Location</a>).</p>
+<hr>
+<h2 id="official-solution">Official Solution</h2>
+<p>For reference, here’s the official solution from Unlock Security:</p>
+<p>👉 <a href="https://www.unlock-security.it/it/osint/osint-challenge-1-sai-dire-dove/">Unlock Security Official Solution</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My OSCP Journey - Tips, Tricks and Cheat Sheets</title>
+            <link>http://localhost:1313/nstsec-prod/posts/2023/05/my-oscp-journey-tips-tricks-and-cheat-sheets/</link>
+            <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
+            
+            <guid>http://localhost:1313/nstsec-prod/posts/2023/05/my-oscp-journey-tips-tricks-and-cheat-sheets/</guid>
+            <description>Welcome! I’m excited to introduce a project I’ve been working on during my preparation for the Offensive Security Certified Professional (OSCP) certification.
+On my GitBook, you’ll find:
+Detailed cheatsheets covering penetration testing methodologies. Useful commands and quick references. Lessons learned and practical tips from my OSCP journey. The goal is to provide a resource for anyone aiming to tackle and successfully pass this prestigious ethical hacking certification.
+What You&amp;rsquo;ll Find The guide is structured to cover the key areas of OSCP preparation, with chapters dedicated to:</description>
+            <content type="html"><![CDATA[<h2 id="welcome">Welcome!</h2>
+<p>I’m excited to introduce a project I’ve been working on during my preparation for the <strong>Offensive Security Certified Professional (OSCP)</strong> certification.</p>
+<p>On my <a href="https://oscp.nstsec.com/">GitBook</a>, you’ll find:</p>
+<ul>
+<li>Detailed cheatsheets covering penetration testing methodologies.</li>
+<li>Useful commands and quick references.</li>
+<li>Lessons learned and practical tips from my OSCP journey.</li>
+</ul>
+<p>The goal is to provide a resource for anyone aiming to tackle and successfully pass this prestigious ethical hacking certification.</p>
+<hr>
+<h2 id="what-youll-find">What You&rsquo;ll Find</h2>
+<p>The <a href="https://oscp.nstsec.com/">guide</a> is structured to cover the key areas of OSCP preparation, with chapters dedicated to:</p>
+<ul>
+<li><strong>Network Scanning and Service Enumeration</strong>: Techniques and tools for identifying vulnerable services (FTP, SMB, HTTP, LDAP, and more).</li>
+<li><strong>Service Exploitation</strong>: Methods for exploiting known vulnerabilities in various protocols and applications.</li>
+<li><strong>Web Application Attacks</strong>: File inclusion, SQL injection, command injection, and more.</li>
+<li><strong>Privilege Escalation</strong>: Techniques to gain full control of compromised Windows and Linux systems.</li>
+<li><strong>Active Directory</strong>: Strategies for attacking, lateral movement, and exploiting vulnerabilities in AD domains.</li>
+<li><strong>Shells and File Transfers</strong>: Approaches for obtaining and maintaining remote access to compromised systems.</li>
+</ul>
+<hr>
+<h2 id="reflections-on-the-oscp-exam">Reflections on the OSCP Exam</h2>
+<p>The OSCP exam is a unique and challenging experience, simulating a real-world network environment containing vulnerable machines. I had 23 hours and 45 minutes to achieve the exam objectives and an additional 24 hours to submit my documentation.</p>
+<p>Throughout my preparation, I learned the importance of consistent practice, organization, and maintaining a positive mindset. Despite the difficulties, the journey to OSCP certification has been incredibly rewarding!</p>
+<hr>
+<h2 id="support-and-compliance">Support and Compliance</h2>
+<p>I’ve created this <a href="https://oscp.nstsec.com/">guide</a> while strictly adhering to <strong>Offensive Security’s</strong> non-disclosure policies. All information shared is derived from public sources or my personal experiences.</p>
+<p>If you find my work helpful, you can support me by <a href="https://www.buymeacoffee.com/lorensts">buying me a coffee</a>! Every gesture is appreciated and helps me continue creating valuable content for the community.</p>
+<hr>
+<h2 id="explore-the-guide">Explore the Guide</h2>
+<p>👉 <a href="https://oscp.nstsec.com/">Check out the guide on GitBook</a></p>
+<p>If you’re considering taking on the OSCP challenge or want to deepen your knowledge of ethical hacking, I hope this guide inspires and supports your journey.</p>
+<p>Good luck on your path to OSCP certification!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>CVE-2022-44023</title>
+            <link>http://localhost:1313/nstsec-prod/posts/2022/10/cve-2022-44023/</link>
+            <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
+            
+            <guid>http://localhost:1313/nstsec-prod/posts/2022/10/cve-2022-44023/</guid>
+            <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses CVE Detail PwnDoc through version 0.5.3 might allow remote attackers to identify disabled user account names by leveraging response messages during authentication attempts.
+Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44023 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables username enumeration of disabled accounts in PwnDoc (tested on version 0.5.3 - 2022-07-19) by observing server responses to login attempts.
+Example Scenario: Suppose the following users were registered and subsequently disabled in PwnDoc:</description>
+            <content type="html"><![CDATA[<h2 id="pwndoc--053---username-enumeration-via-different-responses"><strong>PwnDoc &lt;= 0.5.3 - Username Enumeration via Different Responses</strong></h2>
+<h3 id="cve-detail">CVE Detail</h3>
+<p>PwnDoc through version 0.5.3 might allow remote attackers to identify <strong>disabled user account names</strong> by leveraging <strong>response messages</strong> during authentication attempts.</p>
+<hr>
+<h3 id="vulnerability-summary">Vulnerability Summary</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Product</strong></th>
+<th><strong>CVE</strong></th>
+<th><strong>CVSSv3 Score</strong></th>
+<th><strong>CWE</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/pwndoc/pwndoc/issues/382">PwnDoc</a></td>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-44023">CVE-2022-44023</a></td>
+<td>5.3 (Medium)</td>
+<td><a href="https://cwe.mitre.org/data/definitions/307.html">CWE-307</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="exploitation-steps">Exploitation Steps</h3>
+<p>This vulnerability enables <strong>username enumeration</strong> of <strong>disabled accounts</strong> in PwnDoc (tested on version 0.5.3 - 2022-07-19) by observing server responses to login attempts.</p>
+<h4 id="example-scenario">Example Scenario:</h4>
+<p>Suppose the following users were registered and subsequently <strong>disabled</strong> in PwnDoc:<br>
+<img alt="Disabled users" src="image-disabled-users.png"></p>
+<p>When attempting to log in with one of these disabled accounts, the application responds with a specific error message <strong>&ldquo;Account disabled&rdquo;</strong>:
+<img alt="Account disabled" src="image-account-disabled.png"></p>
+<h4 id="client-request-and-server-response">Client Request and Server Response:</h4>
+<ul>
+<li><strong>Request:</strong> Login attempt with a disabled username</li>
+<li><strong>Response:</strong> &ldquo;Account disabled&rdquo;</li>
+</ul>
+<p><img alt="Login attempt request" src="image-login-attempt-request.png"></p>
+<p>In contrast, when attempting to log in with a non-existent user, the application responds with a different message <strong>&ldquo;Invalid credentials&rdquo;</strong>:
+<img alt="Account disabled response" src="image-account-disabled-response.png"></p>
+<h4 id="exploitation-technique">Exploitation Technique:</h4>
+<p>An attacker can exploit this behavior to enumerate disabled accounts by:</p>
+<ol>
+<li>Performing a <strong>brute force dictionary attack</strong> with a list of potential usernames via <strong>POST login requests</strong>.</li>
+<li>Observing the responses to distinguish between:
+<ul>
+<li><strong>&ldquo;Account disabled&rdquo;</strong> (indicating a valid but disabled account).</li>
+<li><strong>&ldquo;Invalid credentials&rdquo;</strong> (indicating a non-existent account).</li>
+</ul>
+</li>
+</ol>
+<p><img alt="Bruteforce" src="image-bruteforce.png"></p>
+<p>This enumeration can be leveraged to identify accounts that may later be re-enabled by an administrator, increasing the attack surface.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>CVE-2022-44022</title>
+            <link>http://localhost:1313/nstsec-prod/posts/2022/10/cve-2022-44022/</link>
+            <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
+            
+            <guid>http://localhost:1313/nstsec-prod/posts/2022/10/cve-2022-44022/</guid>
+            <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings CVE Detail PwnDoc through version 0.5.3 allows remote attackers to identify valid user account names by leveraging response timings during authentication attempts.
+Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44022 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables user enumeration in PwnDoc (tested on version 0.5.3 - 2022-07-19 and earlier) by observing web server response times during login attempts.
+Example Scenario: Suppose the following users are registered in PwnDoc:</description>
+            <content type="html"><![CDATA[<h2 id="pwndoc--053---username-enumeration-via-response-timings"><strong>PwnDoc &lt;= 0.5.3 - Username Enumeration via Response Timings</strong></h2>
+<h3 id="cve-detail">CVE Detail</h3>
+<p>PwnDoc through version 0.5.3 allows remote attackers to identify valid user account names by leveraging <strong>response timings</strong> during authentication attempts.</p>
+<hr>
+<h3 id="vulnerability-summary">Vulnerability Summary</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Product</strong></th>
+<th><strong>CVE</strong></th>
+<th><strong>CVSSv3 Score</strong></th>
+<th><strong>CWE</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/pwndoc/pwndoc/issues/382">PwnDoc</a></td>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2022-44023">CVE-2022-44022</a></td>
+<td>5.3 (Medium)</td>
+<td><a href="https://cwe.mitre.org/data/definitions/307.html">CWE-307</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="exploitation-steps">Exploitation Steps</h3>
+<p>This vulnerability enables <strong>user enumeration</strong> in PwnDoc (tested on version 0.5.3 - 2022-07-19 and earlier) by observing web server response times during login attempts.</p>
+<h4 id="example-scenario">Example Scenario:</h4>
+<p>Suppose the following users are registered in PwnDoc:<br>
+<img src="image-0.png"></p>
+<p>A brute force dictionary attack can be executed by sending a list of usernames via <strong>POST login requests</strong>.
+<img src="image-1.png"></p>
+<p>By analyzing the server&rsquo;s <strong>response times</strong>, an attacker can identify:</p>
+<ul>
+<li><strong>Long response times</strong>: Valid users</li>
+<li><strong>Shorter response times</strong>: Invalid users</li>
+</ul>
+<h4 id="technical-notes">Technical Notes:</h4>
+<p>The attack&rsquo;s success depends heavily on:</p>
+<ol>
+<li><strong>Server stability</strong></li>
+<li><strong>Network latency</strong> between the attacker and the server</li>
+</ol>
+]]></content>
+        </item>
+        
+        <item>
+            <title>CVE-2020-13654</title>
+            <link>http://localhost:1313/nstsec-prod/posts/2020/12/cve-2020-13654/</link>
+            <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
+            
+            <guid>http://localhost:1313/nstsec-prod/posts/2020/12/cve-2020-13654/</guid>
+            <description>XWiki Platform &amp;lt; 12.8 - Stored Cross Site Scripting (XSS) CVE Detail In XWiki Platform before version 12.8, certain fields like &amp;ldquo;Company&amp;rdquo; in the user profile editing section are vulnerable to Stored Cross Site Scripting (XSS) attacks due to improper escaping.
+Vulnerability Summary Product CVE CVSSv3 Score CWE XWiki CVE-2020-13654 7.5 (High) CWE-116 Exploitation Steps This vulnerability allows an attacker to inject malicious scripts into certain fields (e.g., &amp;ldquo;Company&amp;rdquo;) in the user profile section, which are subsequently executed in the browser of any user accessing the page.</description>
+            <content type="html"><![CDATA[<h2 id="xwiki-platform--128---stored-cross-site-scripting-xss"><strong>XWiki Platform &lt; 12.8 - Stored Cross Site Scripting (XSS)</strong></h2>
+<h3 id="cve-detail">CVE Detail</h3>
+<p>In XWiki Platform before version 12.8, certain fields like <strong>&ldquo;Company&rdquo;</strong> in the user profile editing section are vulnerable to <strong>Stored Cross Site Scripting (XSS)</strong> attacks due to improper escaping.</p>
+<hr>
+<h3 id="vulnerability-summary">Vulnerability Summary</h3>
+<table>
+<thead>
+<tr>
+<th><strong>Product</strong></th>
+<th><strong>CVE</strong></th>
+<th><strong>CVSSv3 Score</strong></th>
+<th><strong>CWE</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/xwiki/xwiki-platform">XWiki</a></td>
+<td><a href="https://nvd.nist.gov/vuln/detail/CVE-2020-13654">CVE-2020-13654</a></td>
+<td>7.5 (High)</td>
+<td><a href="https://cwe.mitre.org/data/definitions/116.html">CWE-116</a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="exploitation-steps">Exploitation Steps</h3>
+<p>This vulnerability allows an attacker to inject malicious scripts into certain fields (e.g., <strong>&ldquo;Company&rdquo;</strong>) in the user profile section, which are subsequently executed in the browser of any user accessing the page.</p>
+<h4 id="attack-details">Attack Details:</h4>
+<p>Stored XSS vulnerabilities allow attackers to persistently inject scripts into a trusted application. When unsuspecting users view the affected page, their browser executes the malicious code, which can be used to:</p>
+<ul>
+<li>Steal cookies or session tokens.</li>
+<li>Hijack user accounts.</li>
+<li>Perform unauthorized actions on behalf of the victim.</li>
+</ul>
+<h4 id="steps-to-reproduce">Steps to Reproduce:</h4>
+<ol>
+<li>Login as an admin user.</li>
+<li>Create a new test user.</li>
+<li>Navigate to the user profile page: https://localhost/bin/view/XWiki/<!-- raw HTML omitted --></li>
+<li>Click the &ldquo;Edit&rdquo; button near the Personal Information section.</li>
+<li>Insert the following payload in the &ldquo;Company&rdquo; field:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span>&gt;<span style="color:#a6e22e">alert</span>();&lt;/<span style="color:#f92672">script</span>&gt;  
+</span></span></code></pre></div><ol start="6">
+<li>Save the changes and view the profile page.</li>
+<li>Observe the XSS execution in the browser.</li>
+</ol>
+<p><img alt="XSS PoC" src="image-xss-poc.gif"></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
