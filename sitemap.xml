@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/nstsec-prod/en/sitemap.xml</loc>
-    
-      <lastmod>2024-01-20T12:21:33-05:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/nstsec-prod/it/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/nstsec-prod/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nstsec-prod/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nstsec-prod/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nstsec-prod/tags/</loc>
+  </url>
+</urlset>
