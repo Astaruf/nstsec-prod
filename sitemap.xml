@@ -62,13 +62,11 @@
     <loc>http://localhost:1313/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</loc>
     <lastmod>2020-12-30T11:19:29-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nstsec-prod/tags/first/</loc>
+    <loc>http://localhost:1313/nstsec-prod/tags/about/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nstsec-prod/posts/first-post/</loc>
+    <loc>http://localhost:1313/nstsec-prod/posts/about/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nstsec-prod/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/nstsec-prod/categories/</loc>
   </url>

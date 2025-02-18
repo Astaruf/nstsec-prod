@@ -66,11 +66,11 @@ Example Scenario: Suppose the following users are registered in PwnDoc:</descrip
 Vulnerability Summary Product CVE CVSSv3 Score CWE XWiki CVE-2020-13654 7.5 (High) CWE-116 Exploitation Steps This vulnerability allows an attacker to inject malicious scripts into certain fields (e.g., &amp;ldquo;Company&amp;rdquo;) in the user profile section, which are subsequently executed in the browser of any user accessing the page.</description>
     </item>
     <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/nstsec-prod/posts/first-post/</link>
+      <title>About</title>
+      <link>http://localhost:1313/nstsec-prod/posts/about/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/nstsec-prod/posts/first-post/</guid>
-      <description>Desc Text.</description>
+      <guid>http://localhost:1313/nstsec-prod/posts/about/</guid>
+      <description>Let me introduce myself</description>
     </item>
   </channel>
 </rss>
