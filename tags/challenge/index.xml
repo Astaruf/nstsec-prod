@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Challenge on ExampleSite</title>
+    <link>http://localhost:1313/nstsec-prod/tags/challenge/</link>
+    <description>Recent content in Challenge on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/nstsec-prod/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Contribution Featured in Hacker Journal N.275</title>
+      <link>http://localhost:1313/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</link>
+      <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
+      <guid>http://localhost:1313/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</guid>
+      <description>HackerJournal holds a special place in my heart, it’s one of the magazines I grew up reading as a kid, diving into its pages to fuel my passion for hacking and technology. For Italian enthusiasts like me, it’s been a true gateway into the world of ethical hacking and cybersecurity.
+The Article: &amp;ldquo;I Know Where You Post From&amp;rdquo; In particular, my article, titled &amp;ldquo;So da dove posti&amp;rdquo; (I Know Where You Post From), appears on page 36.</description>
+    </item>
+    <item>
+      <title>How I Solved the Unlock Security OSINT Challenge</title>
+      <link>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/</link>
+      <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
+      <guid>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/</guid>
+      <description>Inspired by the many challenges by Gary Ruddell (LinkedIn Profile), Unlock Security (LinkedIn Profile) has introduced a rather unique OSINT challenge: no contextual information and just a single blurry photo with few visible details.
+🔎 The Challenge: Can you determine the location where this photo was taken?
+Step 1: Using Face Recognition To begin, I used facecheck.id, an online face recognition tool, to identify if the person in the photo appears on any public platform or social media.</description>
+    </item>
+  </channel>
+</rss>
