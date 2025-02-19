@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web on Astaruf&#39;s Security Blog</title>
-    <link>http://localhost:1313/nstsec-prod/tags/web/</link>
+    <link>https://astaruf.github.io/nstsec-prod/tags/web/</link>
     <description>Recent content in Web on Astaruf&#39;s Security Blog</description>
     <image>
       <title>Astaruf&#39;s Security Blog</title>
-      <url>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Oct 2022 10:45:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/nstsec-prod/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astaruf.github.io/nstsec-prod/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CVE-2022-44023</title>
-      <link>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/</guid>
       <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses CVE Detail PwnDoc through version 0.5.3 might allow remote attackers to identify disabled user account names by leveraging response messages during authentication attempts.
 Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44023 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables username enumeration of disabled accounts in PwnDoc (tested on version 0.5.3 - 2022-07-19) by observing server responses to login attempts.
 Example Scenario: Suppose the following users were registered and subsequently disabled in PwnDoc:</description>
     </item>
     <item>
       <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Response Timings (CVE-2022-44022)</title>
-      <link>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
-      <guid>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
       <description>CVE-2022-44022</description>
     </item>
     <item>
       <title>CVE-2020-13654</title>
-      <link>http://localhost:1313/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</link>
       <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
-      <guid>http://localhost:1313/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</guid>
       <description>XWiki Platform &amp;lt; 12.8 - Stored Cross Site Scripting (XSS) CVE Detail In XWiki Platform before version 12.8, certain fields like &amp;ldquo;Company&amp;rdquo; in the user profile editing section are vulnerable to Stored Cross Site Scripting (XSS) attacks due to improper escaping.
 Vulnerability Summary Product CVE CVSSv3 Score CWE XWiki CVE-2020-13654 7.5 (High) CWE-116 Exploitation Steps This vulnerability allows an attacker to inject malicious scripts into certain fields (e.g., &amp;ldquo;Company&amp;rdquo;) in the user profile section, which are subsequently executed in the browser of any user accessing the page.</description>
     </item>
