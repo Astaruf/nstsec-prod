@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Web on ExampleSite</title>
+    <title>Web on Astaruf&#39;s Security Blog</title>
     <link>http://localhost:1313/nstsec-prod/tags/web/</link>
-    <description>Recent content in Web on ExampleSite</description>
+    <description>Recent content in Web on Astaruf&#39;s Security Blog</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Astaruf&#39;s Security Blog</title>
       <url>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -23,13 +23,11 @@ Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44023 5.3 (Me
 Example Scenario: Suppose the following users were registered and subsequently disabled in PwnDoc:</description>
     </item>
     <item>
-      <title>CVE-2022-44022</title>
-      <link>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/</link>
+      <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Response Timings (CVE-2022-44022)</title>
+      <link>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
-      <guid>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/</guid>
-      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings CVE Detail PwnDoc through version 0.5.3 allows remote attackers to identify valid user account names by leveraging response timings during authentication attempts.
-Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44022 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables user enumeration in PwnDoc (tested on version 0.5.3 - 2022-07-19 and earlier) by observing web server response times during login attempts.
-Example Scenario: Suppose the following users are registered in PwnDoc:</description>
+      <guid>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
+      <description>CVE-2022-44022</description>
     </item>
     <item>
       <title>CVE-2020-13654</title>

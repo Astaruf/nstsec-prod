@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Privacy on ExampleSite</title>
+    <title>Privacy on Astaruf&#39;s Security Blog</title>
     <link>http://localhost:1313/nstsec-prod/tags/privacy/</link>
-    <description>Recent content in Privacy on ExampleSite</description>
+    <description>Recent content in Privacy on Astaruf&#39;s Security Blog</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Astaruf&#39;s Security Blog</title>
       <url>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -14,11 +14,18 @@
     <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/nstsec-prod/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Contribution Featured in Hacker Journal N.275</title>
+      <title>Ciao Mamma, Sono su HackerJournal N.275</title>
       <link>http://localhost:1313/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</link>
       <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
       <guid>http://localhost:1313/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</guid>
-      <description>Desc Text.</description>
+      <description>Il mio contributo nell&amp;#39;uscita N.275 di HackerJournal.</description>
+    </item>
+    <item>
+      <title>OSINT Challenge di Unlock Security</title>
+      <link>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</link>
+      <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
+      <guid>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</guid>
+      <description>Come ho risolto la OSINT Challenge di Unlock Security.</description>
     </item>
   </channel>
 </rss>

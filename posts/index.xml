@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
+    <title>Posts on Astaruf&#39;s Security Blog</title>
     <link>http://localhost:1313/nstsec-prod/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <description>Recent content in Posts on Astaruf&#39;s Security Blog</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Astaruf&#39;s Security Blog</title>
       <url>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -14,30 +14,25 @@
     <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/nstsec-prod/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Contribution Featured in Hacker Journal N.275</title>
+      <title>Ciao Mamma, Sono su HackerJournal N.275</title>
       <link>http://localhost:1313/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</link>
       <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
       <guid>http://localhost:1313/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</guid>
-      <description>Desc Text.</description>
+      <description>Il mio contributo nell&amp;#39;uscita N.275 di HackerJournal.</description>
     </item>
     <item>
-      <title>How I Solved the Unlock Security OSINT Challenge</title>
-      <link>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/</link>
+      <title>OSINT Challenge di Unlock Security</title>
+      <link>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</link>
       <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
-      <guid>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/</guid>
-      <description>Inspired by the many challenges by Gary Ruddell (LinkedIn Profile), Unlock Security (LinkedIn Profile) has introduced a rather unique OSINT challenge: no contextual information and just a single blurry photo with few visible details.
-🔎 The Challenge: Can you determine the location where this photo was taken?
-Step 1: Using Face Recognition To begin, I used facecheck.id, an online face recognition tool, to identify if the person in the photo appears on any public platform or social media.</description>
+      <guid>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</guid>
+      <description>Come ho risolto la OSINT Challenge di Unlock Security.</description>
     </item>
     <item>
-      <title>My OSCP Journey - Tips, Tricks and Cheat Sheets</title>
+      <title>OSCP, Appunti di un Pentester</title>
       <link>http://localhost:1313/nstsec-prod/posts/my-oscp-cheatsheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
       <guid>http://localhost:1313/nstsec-prod/posts/my-oscp-cheatsheets/</guid>
-      <description>Welcome! I’m excited to introduce a project I’ve been working on during my preparation for the Offensive Security Certified Professional (OSCP) certification.
-On my GitBook, you’ll find:
-Detailed cheatsheets covering penetration testing methodologies. Useful commands and quick references. Lessons learned and practical tips from my OSCP journey. The goal is to provide a resource for anyone aiming to tackle and successfully pass this prestigious ethical hacking certification.
-What You&amp;rsquo;ll Find The guide is structured to cover the key areas of OSCP preparation, with chapters dedicated to:</description>
+      <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
     </item>
     <item>
       <title>CVE-2022-44023</title>
@@ -49,13 +44,11 @@ Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44023 5.3 (Me
 Example Scenario: Suppose the following users were registered and subsequently disabled in PwnDoc:</description>
     </item>
     <item>
-      <title>CVE-2022-44022</title>
-      <link>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/</link>
+      <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Response Timings (CVE-2022-44022)</title>
+      <link>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
-      <guid>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/</guid>
-      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings CVE Detail PwnDoc through version 0.5.3 allows remote attackers to identify valid user account names by leveraging response timings during authentication attempts.
-Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44022 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables user enumeration in PwnDoc (tested on version 0.5.3 - 2022-07-19 and earlier) by observing web server response times during login attempts.
-Example Scenario: Suppose the following users are registered in PwnDoc:</description>
+      <guid>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
+      <description>CVE-2022-44022</description>
     </item>
     <item>
       <title>CVE-2020-13654</title>

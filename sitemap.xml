@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nstsec-prod/tags/challenge/</loc>
-    <lastmod>2024-01-20T12:21:33-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nstsec-prod/</loc>
     <lastmod>2024-01-20T12:21:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nstsec-prod/tags/geoguess/</loc>
+    <loc>http://localhost:1313/nstsec-prod/tags/challenge/</loc>
     <lastmod>2024-01-20T12:21:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</loc>
+    <lastmod>2024-01-20T12:21:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nstsec-prod/tags/geoguess/</loc>
     <lastmod>2024-01-20T12:21:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nstsec-prod/tags/osint/</loc>
@@ -26,10 +26,7 @@
     <loc>http://localhost:1313/nstsec-prod/tags/</loc>
     <lastmod>2024-01-20T12:21:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nstsec-prod/tags/cyber-security/</loc>
-    <lastmod>2023-09-21T12:02:44-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/</loc>
+    <loc>http://localhost:1313/nstsec-prod/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</loc>
     <lastmod>2023-09-21T12:02:44-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nstsec-prod/tags/ethical-hacking/</loc>
@@ -38,10 +35,10 @@
     <loc>http://localhost:1313/nstsec-prod/tags/exam/</loc>
     <lastmod>2023-05-10T11:40:24-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nstsec-prod/posts/my-oscp-cheatsheets/</loc>
+    <loc>http://localhost:1313/nstsec-prod/tags/oscp/</loc>
     <lastmod>2023-05-10T11:40:24-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nstsec-prod/tags/oscp/</loc>
+    <loc>http://localhost:1313/nstsec-prod/posts/my-oscp-cheatsheets/</loc>
     <lastmod>2023-05-10T11:40:24-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nstsec-prod/tags/penetration-test/</loc>
@@ -56,7 +53,7 @@
     <loc>http://localhost:1313/nstsec-prod/tags/web/</loc>
     <lastmod>2022-10-29T10:45:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/</loc>
+    <loc>http://localhost:1313/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</loc>
     <lastmod>2022-10-29T10:23:19-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</loc>

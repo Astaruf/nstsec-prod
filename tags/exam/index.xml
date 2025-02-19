@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Exam on ExampleSite</title>
+    <title>Exam on Astaruf&#39;s Security Blog</title>
     <link>http://localhost:1313/nstsec-prod/tags/exam/</link>
-    <description>Recent content in Exam on ExampleSite</description>
+    <description>Recent content in Exam on Astaruf&#39;s Security Blog</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Astaruf&#39;s Security Blog</title>
       <url>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
@@ -14,14 +14,11 @@
     <lastBuildDate>Wed, 10 May 2023 11:40:24 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/nstsec-prod/tags/exam/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My OSCP Journey - Tips, Tricks and Cheat Sheets</title>
+      <title>OSCP, Appunti di un Pentester</title>
       <link>http://localhost:1313/nstsec-prod/posts/my-oscp-cheatsheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
       <guid>http://localhost:1313/nstsec-prod/posts/my-oscp-cheatsheets/</guid>
-      <description>Welcome! I’m excited to introduce a project I’ve been working on during my preparation for the Offensive Security Certified Professional (OSCP) certification.
-On my GitBook, you’ll find:
-Detailed cheatsheets covering penetration testing methodologies. Useful commands and quick references. Lessons learned and practical tips from my OSCP journey. The goal is to provide a resource for anyone aiming to tackle and successfully pass this prestigious ethical hacking certification.
-What You&amp;rsquo;ll Find The guide is structured to cover the key areas of OSCP preparation, with chapters dedicated to:</description>
+      <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
     </item>
   </channel>
 </rss>
