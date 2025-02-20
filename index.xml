@@ -6,8 +6,8 @@
     <description>Recent content on Astaruf&#39;s Security Blog</description>
     <image>
       <title>Astaruf&#39;s Security Blog</title>
-      <url>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
@@ -15,9 +15,9 @@
     <atom:link href="https://astaruf.github.io/nstsec-prod/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ciao Mamma, Sono su HackerJournal N.275</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</link>
       <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</guid>
       <description>Il mio contributo nell&amp;#39;uscita N.275 di HackerJournal.</description>
     </item>
     <item>
@@ -29,19 +29,17 @@
     </item>
     <item>
       <title>OSCP, Appunti di un Pentester</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/my-oscp-cheatsheets/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/my-oscp-cheatsheets/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
       <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
     </item>
     <item>
-      <title>CVE-2022-44023</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/</link>
+      <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Different Responses (CVE-2022-44023)</title>
+      <link>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/</guid>
-      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses CVE Detail PwnDoc through version 0.5.3 might allow remote attackers to identify disabled user account names by leveraging response messages during authentication attempts.
-Vulnerability Summary Product CVE CVSSv3 Score CWE PwnDoc CVE-2022-44023 5.3 (Medium) CWE-307 Exploitation Steps This vulnerability enables username enumeration of disabled accounts in PwnDoc (tested on version 0.5.3 - 2022-07-19) by observing server responses to login attempts.
-Example Scenario: Suppose the following users were registered and subsequently disabled in PwnDoc:</description>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</guid>
+      <description>CVE-2022-44023</description>
     </item>
     <item>
       <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Response Timings (CVE-2022-44022)</title>
@@ -51,19 +49,18 @@ Example Scenario: Suppose the following users were registered and subsequently d
       <description>CVE-2022-44022</description>
     </item>
     <item>
-      <title>CVE-2020-13654</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</link>
+      <title>XWiki Platform &lt; 12.8 - Stored Cross-Site Scripting (CVE-2020-13654)</title>
+      <link>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</link>
       <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/</guid>
-      <description>XWiki Platform &amp;lt; 12.8 - Stored Cross Site Scripting (XSS) CVE Detail In XWiki Platform before version 12.8, certain fields like &amp;ldquo;Company&amp;rdquo; in the user profile editing section are vulnerable to Stored Cross Site Scripting (XSS) attacks due to improper escaping.
-Vulnerability Summary Product CVE CVSSv3 Score CWE XWiki CVE-2020-13654 7.5 (High) CWE-116 Exploitation Steps This vulnerability allows an attacker to inject malicious scripts into certain fields (e.g., &amp;ldquo;Company&amp;rdquo;) in the user profile section, which are subsequently executed in the browser of any user accessing the page.</description>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</guid>
+      <description>CVE-2020-13654</description>
     </item>
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://astaruf.github.io/nstsec-prod/posts/about/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2020 19:30:03 +0000</pubDate>
       <guid>https://astaruf.github.io/nstsec-prod/posts/about/</guid>
-      <description>Let me introduce myself</description>
+      <description>...</description>
     </item>
   </channel>
 </rss>

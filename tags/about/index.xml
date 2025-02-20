@@ -6,19 +6,19 @@
     <description>Recent content in About on Astaruf&#39;s Security Blog</description>
     <image>
       <title>Astaruf&#39;s Security Blog</title>
-      <url>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 19:30:03 +0000</lastBuildDate>
     <atom:link href="https://astaruf.github.io/nstsec-prod/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://astaruf.github.io/nstsec-prod/posts/about/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2020 19:30:03 +0000</pubDate>
       <guid>https://astaruf.github.io/nstsec-prod/posts/about/</guid>
-      <description>Let me introduce myself</description>
+      <description>...</description>
     </item>
   </channel>
 </rss>

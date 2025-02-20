@@ -6,8 +6,8 @@
     <description>Recent content in Privacy on Astaruf&#39;s Security Blog</description>
     <image>
       <title>Astaruf&#39;s Security Blog</title>
-      <url>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://astaruf.github.io/nstsec-prod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
@@ -15,9 +15,9 @@
     <atom:link href="https://astaruf.github.io/nstsec-prod/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ciao Mamma, Sono su HackerJournal N.275</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</link>
+      <link>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</link>
       <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/</guid>
+      <guid>https://astaruf.github.io/nstsec-prod/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</guid>
       <description>Il mio contributo nell&amp;#39;uscita N.275 di HackerJournal.</description>
     </item>
     <item>
