@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web on Astaruf&#39;s Security Blog</title>
-    <link>https://astaruf.github.io/nstsec-prod/tags/web/</link>
+    <link>https://nstsec.com/tags/web/</link>
     <description>Recent content in Web on Astaruf&#39;s Security Blog</description>
     <image>
       <title>Astaruf&#39;s Security Blog</title>
@@ -12,26 +12,26 @@
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 29 Oct 2022 10:45:00 -0500</lastBuildDate>
-    <atom:link href="https://astaruf.github.io/nstsec-prod/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nstsec.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Different Responses (CVE-2022-44023)</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</link>
+      <link>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</guid>
+      <guid>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</guid>
       <description>CVE-2022-44023</description>
     </item>
     <item>
       <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Response Timings (CVE-2022-44022)</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
+      <link>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
+      <guid>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
       <description>CVE-2022-44022</description>
     </item>
     <item>
       <title>XWiki Platform &lt; 12.8 - Stored Cross-Site Scripting (CVE-2020-13654)</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</link>
+      <link>https://nstsec.com/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</link>
       <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</guid>
+      <guid>https://nstsec.com/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</guid>
       <description>CVE-2020-13654</description>
     </item>
   </channel>

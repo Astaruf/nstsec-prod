@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Oscp on Astaruf&#39;s Security Blog</title>
-    <link>https://astaruf.github.io/nstsec-prod/tags/oscp/</link>
+    <link>https://nstsec.com/tags/oscp/</link>
     <description>Recent content in Oscp on Astaruf&#39;s Security Blog</description>
     <image>
       <title>Astaruf&#39;s Security Blog</title>
@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 May 2023 11:40:24 -0500</lastBuildDate>
-    <atom:link href="https://astaruf.github.io/nstsec-prod/tags/oscp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nstsec.com/tags/oscp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCP, Appunti di un Pentester</title>
-      <link>https://astaruf.github.io/nstsec-prod/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
+      <link>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
-      <guid>https://astaruf.github.io/nstsec-prod/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
+      <guid>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
       <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
     </item>
   </channel>
