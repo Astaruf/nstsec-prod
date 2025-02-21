@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 23:42:38 -0500</lastBuildDate>
     <atom:link href="https://nstsec.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come Creare Wordlist in Italiano per Penetration Testing e Red Teaming</title>
+      <link>https://nstsec.com/posts/wordlist-italiano-pentester-combolistscraper-wordlist-generator/wordlist-italiano-pentester-combolistscraper-wordlist-generator/</link>
+      <pubDate>Thu, 20 Feb 2025 23:42:38 -0500</pubDate>
+      <guid>https://nstsec.com/posts/wordlist-italiano-pentester-combolistscraper-wordlist-generator/wordlist-italiano-pentester-combolistscraper-wordlist-generator/</guid>
+      <description>Combolist Scraper e Wordlist Generator per Credenziali in Italiano</description>
+    </item>
     <item>
       <title>Ciao Mamma, Sono su HackerJournal N.275</title>
       <link>https://nstsec.com/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</link>

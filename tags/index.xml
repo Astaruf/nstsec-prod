@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 23:42:38 -0500</lastBuildDate>
     <atom:link href="https://nstsec.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://nstsec.com/tags/automation/</link>
+      <pubDate>Thu, 20 Feb 2025 23:42:38 -0500</pubDate>
+      <guid>https://nstsec.com/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bruteforce</title>
+      <link>https://nstsec.com/tags/bruteforce/</link>
+      <pubDate>Thu, 20 Feb 2025 23:42:38 -0500</pubDate>
+      <guid>https://nstsec.com/tags/bruteforce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penetration Test</title>
+      <link>https://nstsec.com/tags/penetration-test/</link>
+      <pubDate>Thu, 20 Feb 2025 23:42:38 -0500</pubDate>
+      <guid>https://nstsec.com/tags/penetration-test/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Challenge</title>
       <link>https://nstsec.com/tags/challenge/</link>
@@ -60,13 +81,6 @@
       <link>https://nstsec.com/tags/oscp/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
       <guid>https://nstsec.com/tags/oscp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Penetration Test</title>
-      <link>https://nstsec.com/tags/penetration-test/</link>
-      <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
-      <guid>https://nstsec.com/tags/penetration-test/</guid>
       <description></description>
     </item>
     <item>
