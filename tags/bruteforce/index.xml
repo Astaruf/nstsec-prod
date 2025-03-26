@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bruteforce on Astaruf&#39;s Security Blog</title>
+    <title>Bruteforce on nstsec.com</title>
     <link>https://nstsec.com/tags/bruteforce/</link>
-    <description>Recent content in Bruteforce on Astaruf&#39;s Security Blog</description>
+    <description>Recent content in Bruteforce on nstsec.com</description>
     <image>
-      <title>Astaruf&#39;s Security Blog</title>
+      <title>nstsec.com</title>
       <url>https://nstsec.com/images/index.png</url>
       <link>https://nstsec.com/images/index.png</link>
     </image>
@@ -14,11 +14,11 @@
     <lastBuildDate>Thu, 20 Feb 2025 23:42:38 -0500</lastBuildDate>
     <atom:link href="https://nstsec.com/tags/bruteforce/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Come Creare Wordlist in Italiano per Penetration Testing e Red Teaming</title>
+      <title>Combolist Scraping Automation</title>
       <link>https://nstsec.com/posts/wordlist-italiano-pentester-combolistscraper-wordlist-generator/wordlist-italiano-pentester-combolistscraper-wordlist-generator/</link>
       <pubDate>Thu, 20 Feb 2025 23:42:38 -0500</pubDate>
       <guid>https://nstsec.com/posts/wordlist-italiano-pentester-combolistscraper-wordlist-generator/wordlist-italiano-pentester-combolistscraper-wordlist-generator/</guid>
-      <description>Combolist Scraper e Wordlist Generator per Credenziali in Italiano</description>
+      <description>Come Creare Wordlist per Attacchi Bruteforce Mirati</description>
     </item>
   </channel>
 </rss>
