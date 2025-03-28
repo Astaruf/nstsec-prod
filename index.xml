@@ -11,56 +11,49 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Feb 2025 23:42:38 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
     <atom:link href="https://nstsec.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Combolist Scraping Automation</title>
-      <link>https://nstsec.com/posts/wordlist-italiano-pentester-combolistscraper-wordlist-generator/wordlist-italiano-pentester-combolistscraper-wordlist-generator/</link>
-      <pubDate>Thu, 20 Feb 2025 23:42:38 -0500</pubDate>
-      <guid>https://nstsec.com/posts/wordlist-italiano-pentester-combolistscraper-wordlist-generator/wordlist-italiano-pentester-combolistscraper-wordlist-generator/</guid>
-      <description>Come Creare Wordlist per Attacchi Bruteforce Mirati</description>
-    </item>
-    <item>
-      <title>Ciao Mamma, Sono su HackerJournal</title>
+      <title>HackerJournal n.275</title>
       <link>https://nstsec.com/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</link>
       <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
       <guid>https://nstsec.com/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</guid>
       <description>Il mio contributo nell&amp;#39;uscita N.275 di HackerJournal.</description>
     </item>
     <item>
-      <title>OSINT Challenge di Unlock Security</title>
+      <title>OSINT Challenge</title>
       <link>https://nstsec.com/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</link>
       <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
       <guid>https://nstsec.com/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</guid>
       <description>Come ho risolto la OSINT Challenge di Unlock Security.</description>
     </item>
     <item>
-      <title>OSCP, Appunti di un Pentester</title>
+      <title>OSCP Cheatsheets</title>
       <link>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
       <guid>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
       <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
     </item>
     <item>
-      <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Different Responses (CVE-2022-44023)</title>
+      <title>CVE-2022-44023</title>
       <link>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
       <guid>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</guid>
-      <description>CVE-2022-44023</description>
+      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses</description>
     </item>
     <item>
-      <title>PwnDoc &lt;= 0.5.3 - Username Enumeration via Response Timings (CVE-2022-44022)</title>
+      <title>CVE-2022-44022</title>
       <link>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
       <guid>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
-      <description>CVE-2022-44022</description>
+      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings</description>
     </item>
     <item>
-      <title>XWiki Platform &lt; 12.8 - Stored Cross-Site Scripting (CVE-2020-13654)</title>
+      <title>CVE-2020-13654</title>
       <link>https://nstsec.com/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</link>
       <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
       <guid>https://nstsec.com/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</guid>
-      <description>CVE-2020-13654</description>
+      <description>XWiki Platform &amp;lt; 12.8 - Stored Cross-Site Scripting</description>
     </item>
     <item>
       <title>About me</title>
