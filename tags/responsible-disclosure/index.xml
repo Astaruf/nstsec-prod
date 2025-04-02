@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Responsible Disclosure on nstsec.com</title>
+    <link>https://nstsec.com/tags/responsible-disclosure/</link>
+    <description>Recent content in Responsible Disclosure on nstsec.com</description>
+    <image>
+      <title>nstsec.com</title>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
+    </image>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Apr 2025 12:45:00 +0000</lastBuildDate>
+    <atom:link href="https://nstsec.com/tags/responsible-disclosure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dal Mio Schermo alla NASA</title>
+      <link>https://nstsec.com/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</link>
+      <pubDate>Wed, 02 Apr 2025 12:45:00 +0000</pubDate>
+      <guid>https://nstsec.com/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</guid>
+      <description>Lettera di riconoscimento dalla NASA</description>
+    </item>
+  </channel>
+</rss>

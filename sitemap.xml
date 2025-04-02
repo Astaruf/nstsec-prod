@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nstsec.com/tags/bugbounty/</loc>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nstsec.com/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</loc>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nstsec.com/tags/ethical-hacking/</loc>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
+  </url><url>
     <loc>https://nstsec.com/</loc>
-    <lastmod>2025-03-26T12:28:10-04:00</lastmod>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nstsec.com/tags/penetration-test/</loc>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
   </url><url>
     <loc>https://nstsec.com/posts/</loc>
-    <lastmod>2025-03-26T12:28:10-04:00</lastmod>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nstsec.com/tags/responsible-disclosure/</loc>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nstsec.com/tags/</loc>
+    <lastmod>2025-04-02T12:45:00+00:00</lastmod>
   </url><url>
     <loc>https://nstsec.com/tags/challenge/</loc>
     <lastmod>2024-01-20T12:21:33-05:00</lastmod>
@@ -23,14 +41,8 @@
     <loc>https://nstsec.com/tags/privacy/</loc>
     <lastmod>2024-01-20T12:21:33-05:00</lastmod>
   </url><url>
-    <loc>https://nstsec.com/tags/</loc>
-    <lastmod>2024-01-20T12:21:33-05:00</lastmod>
-  </url><url>
     <loc>https://nstsec.com/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</loc>
     <lastmod>2023-09-21T12:02:44-05:00</lastmod>
-  </url><url>
-    <loc>https://nstsec.com/tags/ethical-hacking/</loc>
-    <lastmod>2023-05-10T11:40:24-05:00</lastmod>
   </url><url>
     <loc>https://nstsec.com/tags/exam/</loc>
     <lastmod>2023-05-10T11:40:24-05:00</lastmod>
@@ -39,9 +51,6 @@
     <lastmod>2023-05-10T11:40:24-05:00</lastmod>
   </url><url>
     <loc>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</loc>
-    <lastmod>2023-05-10T11:40:24-05:00</lastmod>
-  </url><url>
-    <loc>https://nstsec.com/tags/penetration-test/</loc>
     <lastmod>2023-05-10T11:40:24-05:00</lastmod>
   </url><url>
     <loc>https://nstsec.com/tags/cve/</loc>
