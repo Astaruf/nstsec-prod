@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Exam on nstsec.com</title>
-    <link>http://localhost:1313/tags/exam/</link>
+    <link>https://nstsec.com/tags/exam/</link>
     <description>Recent content in Exam on nstsec.com</description>
     <image>
       <title>nstsec.com</title>
@@ -11,13 +11,21 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 May 2023 11:40:24 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/exam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Nov 2025 22:03:59 -0500</lastBuildDate>
+    <atom:link href="https://nstsec.com/tags/exam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSWE: White-Box Hacking</title>
+      <link>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</link>
+      <pubDate>Thu, 13 Nov 2025 22:03:59 -0500</pubDate>
+      <guid>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</guid>
+      <description>L&amp;rsquo;esame OffSec Web Expert (OSWE) è noto per la sua metodologia white-box. Non si &amp;ldquo;scansiona&amp;rdquo; semplicemente una webapp per trovare vulnerabilità potenziali, si legge il codice, si comprende e si trovano i difetti per forgiare l&amp;rsquo;exploit perfetto. Niente di irraggiungibile con la giusta preparazione tecnica ed esperienza.
+AWAE/OSWE/WEB-300 Chiariamo prima di cosa stiamo parlando. L&amp;rsquo;OSWE (Offensive Security Web Expert) è la certificazione, mentre AWAE (Advanced Web Attacks and Exploitation, noto anche come WEB-300) è il corso che ti prepara per l&amp;rsquo;esame.</description>
+    </item>
     <item>
       <title>OSCP Cheatsheets</title>
-      <link>http://localhost:1313/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
+      <link>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
+      <guid>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
       <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Awae on nstsec.com</title>
-    <link>http://localhost:1313/tags/awae/</link>
+    <link>https://nstsec.com/tags/awae/</link>
     <description>Recent content in Awae on nstsec.com</description>
     <image>
       <title>nstsec.com</title>
@@ -12,12 +12,12 @@
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Nov 2025 22:03:59 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/awae/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nstsec.com/tags/awae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSWE: White-Box Hacking</title>
-      <link>http://localhost:1313/posts/oswe-awae-prep/oswe-awae-prep/</link>
+      <link>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</link>
       <pubDate>Thu, 13 Nov 2025 22:03:59 -0500</pubDate>
-      <guid>http://localhost:1313/posts/oswe-awae-prep/oswe-awae-prep/</guid>
+      <guid>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</guid>
       <description>L&amp;rsquo;esame OffSec Web Expert (OSWE) è noto per la sua metodologia white-box. Non si &amp;ldquo;scansiona&amp;rdquo; semplicemente una webapp per trovare vulnerabilità potenziali, si legge il codice, si comprende e si trovano i difetti per forgiare l&amp;rsquo;exploit perfetto. Niente di irraggiungibile con la giusta preparazione tecnica ed esperienza.
 AWAE/OSWE/WEB-300 Chiariamo prima di cosa stiamo parlando. L&amp;rsquo;OSWE (Offensive Security Web Expert) è la certificazione, mentre AWAE (Advanced Web Attacks and Exploitation, noto anche come WEB-300) è il corso che ti prepara per l&amp;rsquo;esame.</description>
     </item>

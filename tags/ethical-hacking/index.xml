@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ethical Hacking on nstsec.com</title>
-    <link>http://localhost:1313/tags/ethical-hacking/</link>
+    <link>https://nstsec.com/tags/ethical-hacking/</link>
     <description>Recent content in Ethical Hacking on nstsec.com</description>
     <image>
       <title>nstsec.com</title>
@@ -11,41 +11,49 @@
     </image>
     <generator>Hugo -- 0.131.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Apr 2025 12:45:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ethical-hacking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Nov 2025 22:03:59 -0500</lastBuildDate>
+    <atom:link href="https://nstsec.com/tags/ethical-hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSWE: White-Box Hacking</title>
+      <link>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</link>
+      <pubDate>Thu, 13 Nov 2025 22:03:59 -0500</pubDate>
+      <guid>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</guid>
+      <description>L&amp;rsquo;esame OffSec Web Expert (OSWE) è noto per la sua metodologia white-box. Non si &amp;ldquo;scansiona&amp;rdquo; semplicemente una webapp per trovare vulnerabilità potenziali, si legge il codice, si comprende e si trovano i difetti per forgiare l&amp;rsquo;exploit perfetto. Niente di irraggiungibile con la giusta preparazione tecnica ed esperienza.
+AWAE/OSWE/WEB-300 Chiariamo prima di cosa stiamo parlando. L&amp;rsquo;OSWE (Offensive Security Web Expert) è la certificazione, mentre AWAE (Advanced Web Attacks and Exploitation, noto anche come WEB-300) è il corso che ti prepara per l&amp;rsquo;esame.</description>
+    </item>
     <item>
       <title>Dal Mio Schermo alla NASA</title>
-      <link>http://localhost:1313/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</link>
+      <link>https://nstsec.com/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</link>
       <pubDate>Wed, 02 Apr 2025 12:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</guid>
+      <guid>https://nstsec.com/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</guid>
       <description>Lettera di riconoscimento dalla NASA</description>
     </item>
     <item>
       <title>OSCP Cheatsheets</title>
-      <link>http://localhost:1313/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
+      <link>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</link>
       <pubDate>Wed, 10 May 2023 11:40:24 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
+      <guid>https://nstsec.com/posts/my-oscp-cheatsheets/my-oscp-cheatsheets/</guid>
       <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
     </item>
     <item>
       <title>CVE-2022-44023</title>
-      <link>http://localhost:1313/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</link>
+      <link>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</guid>
+      <guid>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44023/pwndoc-username-enumeration-cve-2022-44023/</guid>
       <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses</description>
     </item>
     <item>
       <title>CVE-2022-44022</title>
-      <link>http://localhost:1313/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
+      <link>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 -0500</pubDate>
-      <guid>http://localhost:1313/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
+      <guid>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</guid>
       <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings</description>
     </item>
     <item>
       <title>CVE-2020-13654</title>
-      <link>http://localhost:1313/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</link>
+      <link>https://nstsec.com/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</link>
       <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
-      <guid>http://localhost:1313/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</guid>
+      <guid>https://nstsec.com/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</guid>
       <description>XWiki Platform &amp;lt; 12.8 - Stored Cross-Site Scripting</description>
     </item>
   </channel>
