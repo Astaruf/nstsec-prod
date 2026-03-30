@@ -77,7 +77,16 @@
     <loc>https://nstsec.com/posts/pwndoc-username-enumeration-cve-2022-44022/pwndoc-username-enumeration-cve-2022-44022/</loc>
     <lastmod>2022-10-29T10:23:19-05:00</lastmod>
   </url><url>
+    <loc>https://nstsec.com/tags/csrf/</loc>
+    <lastmod>2020-12-30T11:19:29-05:00</lastmod>
+  </url><url>
     <loc>https://nstsec.com/posts/xwiki-xss-cve-2020-13654/xwiki-xss-cve-2020-13654/</loc>
+    <lastmod>2020-12-30T11:19:29-05:00</lastmod>
+  </url><url>
+    <loc>https://nstsec.com/tags/privesc/</loc>
+    <lastmod>2020-12-30T11:19:29-05:00</lastmod>
+  </url><url>
+    <loc>https://nstsec.com/tags/xss/</loc>
     <lastmod>2020-12-30T11:19:29-05:00</lastmod>
   </url><url>
     <loc>https://nstsec.com/tags/about/</loc>

@@ -9,7 +9,7 @@
       <url>https://nstsec.com/images/index.png</url>
       <link>https://nstsec.com/images/index.png</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Nov 2025 22:03:59 -0500</lastBuildDate>
     <atom:link href="https://nstsec.com/tags/offsec/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,9 @@
       <link>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</link>
       <pubDate>Thu, 13 Nov 2025 22:03:59 -0500</pubDate>
       <guid>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</guid>
-      <description>L&amp;rsquo;esame OffSec Web Expert (OSWE) è noto per la sua metodologia white-box. Non si &amp;ldquo;scansiona&amp;rdquo; semplicemente una webapp per trovare vulnerabilità potenziali, si legge il codice, si comprende e si trovano i difetti per forgiare l&amp;rsquo;exploit perfetto. Niente di irraggiungibile con la giusta preparazione tecnica ed esperienza.
-AWAE/OSWE/WEB-300 Chiariamo prima di cosa stiamo parlando. L&amp;rsquo;OSWE (Offensive Security Web Expert) è la certificazione, mentre AWAE (Advanced Web Attacks and Exploitation, noto anche come WEB-300) è il corso che ti prepara per l&amp;rsquo;esame.</description>
+      <description>&lt;p&gt;L&amp;rsquo;esame &lt;strong&gt;OffSec Web Expert (OSWE)&lt;/strong&gt; è noto per la sua metodologia white-box. Non si &amp;ldquo;scansiona&amp;rdquo; semplicemente una webapp per trovare vulnerabilità potenziali, si legge il codice, si comprende e si trovano i difetti per forgiare l&amp;rsquo;exploit perfetto. Niente di irraggiungibile con la giusta preparazione tecnica ed esperienza.&lt;/p&gt;
+&lt;h2 id=&#34;awaeosweweb-300&#34;&gt;AWAE/OSWE/WEB-300&lt;/h2&gt;
+&lt;p&gt;Chiariamo prima di cosa stiamo parlando. L&amp;rsquo;&lt;strong&gt;OSWE&lt;/strong&gt; (Offensive Security Web Expert) è la certificazione, mentre &lt;strong&gt;AWAE&lt;/strong&gt; (Advanced Web Attacks and Exploitation, noto anche come WEB-300) è il corso che ti prepara per l&amp;rsquo;esame.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

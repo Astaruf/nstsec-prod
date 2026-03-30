@@ -9,7 +9,7 @@
       <url>https://nstsec.com/images/index.png</url>
       <link>https://nstsec.com/images/index.png</link>
     </image>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Nov 2025 22:03:59 -0500</lastBuildDate>
     <atom:link href="https://nstsec.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -21,7 +21,7 @@
       <description></description>
     </item>
     <item>
-      <title>Ethical Hacking</title>
+      <title>Ethical-Hacking</title>
       <link>https://nstsec.com/tags/ethical-hacking/</link>
       <pubDate>Thu, 13 Nov 2025 22:03:59 -0500</pubDate>
       <guid>https://nstsec.com/tags/ethical-hacking/</guid>
@@ -49,7 +49,7 @@
       <description></description>
     </item>
     <item>
-      <title>Penetration Test</title>
+      <title>Penetration-Test</title>
       <link>https://nstsec.com/tags/penetration-test/</link>
       <pubDate>Thu, 13 Nov 2025 22:03:59 -0500</pubDate>
       <guid>https://nstsec.com/tags/penetration-test/</guid>
@@ -116,6 +116,27 @@
       <link>https://nstsec.com/tags/web/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 -0500</pubDate>
       <guid>https://nstsec.com/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Csrf</title>
+      <link>https://nstsec.com/tags/csrf/</link>
+      <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
+      <guid>https://nstsec.com/tags/csrf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privesc</title>
+      <link>https://nstsec.com/tags/privesc/</link>
+      <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
+      <guid>https://nstsec.com/tags/privesc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xss</title>
+      <link>https://nstsec.com/tags/xss/</link>
+      <pubDate>Wed, 30 Dec 2020 11:19:29 -0500</pubDate>
+      <guid>https://nstsec.com/tags/xss/</guid>
       <description></description>
     </item>
     <item>
