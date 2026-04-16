@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Code Review on nstsec.com</title>
-    <link>http://localhost:34193/it/tags/code-review/</link>
+    <link>https://nstsec.com/it/tags/code-review/</link>
     <description>Recent content in Code Review on nstsec.com</description>
     <image>
       <title>nstsec.com</title>
@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo</generator>
     <language>it</language>
-    <atom:link href="http://localhost:34193/it/tags/code-review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2026 18:30:00 +0200</lastBuildDate>
+    <atom:link href="https://nstsec.com/it/tags/code-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2026-40487: Arbitrary File Upload &gt; Stored XSS &gt; Account Takeover in Postiz</title>
+      <link>https://nstsec.com/it/posts/postiz-xss-cve-2026-40487/</link>
+      <pubDate>Thu, 16 Apr 2026 18:30:00 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/postiz-xss-cve-2026-40487/</guid>
+      <description>Come ho scoperto una Arbitrary File Upload in Postiz (CVE-2026-40487, CVSS 8.9 High) che consente il takeover completo degli account.</description>
+    </item>
   </channel>
 </rss>

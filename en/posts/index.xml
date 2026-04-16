@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Nov 2025 22:03:59 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:30:00 +0200</lastBuildDate>
     <atom:link href="https://nstsec.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2026-40487: Arbitrary File Upload &gt; Stored XSS &gt; Account Takeover in Postiz</title>
+      <link>https://nstsec.com/en/posts/postiz-xss-cve-2026-40487/</link>
+      <pubDate>Thu, 16 Apr 2026 18:30:00 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/postiz-xss-cve-2026-40487/</guid>
+      <description>How I discovered an Arbitrary File Upload in Postiz (CVE-2026-40487, CVSS 8.9 High) that allows full account takeover.</description>
+    </item>
     <item>
       <title>OSWE: White-Box Hacking</title>
       <link>https://nstsec.com/en/posts/oswe-awae-prep/</link>
