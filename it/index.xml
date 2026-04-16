@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nstsec.com</title>
+    <link>https://nstsec.com/it/</link>
+    <description>Recent content on nstsec.com</description>
+    <image>
+      <title>nstsec.com</title>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Thu, 13 Nov 2025 22:03:59 +0200</lastBuildDate>
+    <atom:link href="https://nstsec.com/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSWE: White-Box Hacking</title>
+      <link>https://nstsec.com/it/posts/oswe-awae-prep/</link>
+      <pubDate>Thu, 13 Nov 2025 22:03:59 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/oswe-awae-prep/</guid>
+      <description>Risorse, lab, case study e consigli pratici per prepararsi all&amp;#39;esame OSWE (OffSec Web Expert) e al corso AWAE (WEB-300).</description>
+    </item>
+    <item>
+      <title>Bug Hunting NASA</title>
+      <link>https://nstsec.com/it/posts/nasa-letter-of-recognition/</link>
+      <pubDate>Wed, 02 Apr 2025 12:45:00 +0000</pubDate>
+      <guid>https://nstsec.com/it/posts/nasa-letter-of-recognition/</guid>
+      <description>Lettera di riconoscimento dalla NASA</description>
+    </item>
+    <item>
+      <title>Pubblicazione su HackerJournal n.275</title>
+      <link>https://nstsec.com/it/posts/my-contribution-featured-in-hacker-journal-275/</link>
+      <pubDate>Sat, 20 Jan 2024 12:21:33 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/my-contribution-featured-in-hacker-journal-275/</guid>
+      <description>Il mio contributo nell&amp;#39;uscita N.275 di HackerJournal.</description>
+    </item>
+    <item>
+      <title>OSINT Challenge</title>
+      <link>https://nstsec.com/it/posts/unlock-security-osint-challenge/</link>
+      <pubDate>Thu, 21 Sep 2023 12:02:44 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/unlock-security-osint-challenge/</guid>
+      <description>Come ho risolto la OSINT Challenge di Unlock Security.</description>
+    </item>
+    <item>
+      <title>OSCP Cheatsheets</title>
+      <link>https://nstsec.com/it/posts/my-oscp-cheatsheets/</link>
+      <pubDate>Wed, 10 May 2023 11:40:24 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/my-oscp-cheatsheets/</guid>
+      <description>Appunti e comandi essenziali per OSCP. Tecniche, exploit e strategie per il successo nell&amp;#39;esame.</description>
+    </item>
+    <item>
+      <title>CVE-2022-44023</title>
+      <link>https://nstsec.com/it/posts/pwndoc-username-enumeration-cve-2022-44023/</link>
+      <pubDate>Sat, 29 Oct 2022 10:45:00 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/pwndoc-username-enumeration-cve-2022-44023/</guid>
+      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses</description>
+    </item>
+    <item>
+      <title>CVE-2022-44022</title>
+      <link>https://nstsec.com/it/posts/pwndoc-username-enumeration-cve-2022-44022/</link>
+      <pubDate>Sat, 29 Oct 2022 10:23:19 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/pwndoc-username-enumeration-cve-2022-44022/</guid>
+      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings</description>
+    </item>
+    <item>
+      <title>CVE-2020-13654 - La mia prima CVE: XSS &gt; CSRF &gt; Privesc to ADMIN in XWiki</title>
+      <link>https://nstsec.com/it/posts/xwiki-xss-cve-2020-13654/</link>
+      <pubDate>Wed, 30 Dec 2020 11:19:29 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/xwiki-xss-cve-2020-13654/</guid>
+      <description>Come ho scoperto una Stored XSS in XWiki Platform &amp;lt; 12.8, perché il flag HttpOnly mi ha impedito il furto di cookie e come ho dovuto riorientare l&amp;#39;attacco verso una privilege escalation via CSRF, fino ad ottenere la mia prima CVE dal MITRE.</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://nstsec.com/it/posts/about/</link>
+      <pubDate>Thu, 20 Feb 2020 19:30:03 +0000</pubDate>
+      <guid>https://nstsec.com/it/posts/about/</guid>
+      <description>...</description>
+    </item>
+  </channel>
+</rss>

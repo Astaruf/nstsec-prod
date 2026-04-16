@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Xss on nstsec.com</title>
+    <link>https://nstsec.com/it/tags/xss/</link>
+    <description>Recent content in Xss on nstsec.com</description>
+    <image>
+      <title>nstsec.com</title>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <lastBuildDate>Wed, 30 Dec 2020 11:19:29 +0200</lastBuildDate>
+    <atom:link href="https://nstsec.com/it/tags/xss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2020-13654 - La mia prima CVE: XSS &gt; CSRF &gt; Privesc to ADMIN in XWiki</title>
+      <link>https://nstsec.com/it/posts/xwiki-xss-cve-2020-13654/</link>
+      <pubDate>Wed, 30 Dec 2020 11:19:29 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/xwiki-xss-cve-2020-13654/</guid>
+      <description>Come ho scoperto una Stored XSS in XWiki Platform &amp;lt; 12.8, perché il flag HttpOnly mi ha impedito il furto di cookie e come ho dovuto riorientare l&amp;#39;attacco verso una privilege escalation via CSRF, fino ad ottenere la mia prima CVE dal MITRE.</description>
+    </item>
+  </channel>
+</rss>

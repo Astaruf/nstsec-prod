@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Awae on nstsec.com</title>
-    <link>https://nstsec.com/tags/awae/</link>
+    <link>http://localhost:1313/tags/awae/</link>
     <description>Recent content in Awae on nstsec.com</description>
     <image>
       <title>nstsec.com</title>
@@ -10,14 +10,14 @@
       <link>https://nstsec.com/images/index.png</link>
     </image>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>it</language>
     <lastBuildDate>Thu, 13 Nov 2025 22:03:59 -0500</lastBuildDate>
-    <atom:link href="https://nstsec.com/tags/awae/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/awae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSWE: White-Box Hacking</title>
-      <link>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</link>
+      <link>http://localhost:1313/posts/oswe-awae-prep/oswe-awae-prep/</link>
       <pubDate>Thu, 13 Nov 2025 22:03:59 -0500</pubDate>
-      <guid>https://nstsec.com/posts/oswe-awae-prep/oswe-awae-prep/</guid>
+      <guid>http://localhost:1313/posts/oswe-awae-prep/oswe-awae-prep/</guid>
       <description>&lt;p&gt;L&amp;rsquo;esame &lt;strong&gt;OffSec Web Expert (OSWE)&lt;/strong&gt; è noto per la sua metodologia white-box. Non si &amp;ldquo;scansiona&amp;rdquo; semplicemente una webapp per trovare vulnerabilità potenziali, si legge il codice, si comprende e si trovano i difetti per forgiare l&amp;rsquo;exploit perfetto. Niente di irraggiungibile con la giusta preparazione tecnica ed esperienza.&lt;/p&gt;
 &lt;h2 id=&#34;awaeosweweb-300&#34;&gt;AWAE/OSWE/WEB-300&lt;/h2&gt;
 &lt;p&gt;Chiariamo prima di cosa stiamo parlando. L&amp;rsquo;&lt;strong&gt;OSWE&lt;/strong&gt; (Offensive Security Web Expert) è la certificazione, mentre &lt;strong&gt;AWAE&lt;/strong&gt; (Advanced Web Attacks and Exploitation, noto anche come WEB-300) è il corso che ti prepara per l&amp;rsquo;esame.&lt;/p&gt;</description>

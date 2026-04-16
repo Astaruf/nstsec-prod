@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Responsible Disclosure on nstsec.com</title>
-    <link>https://nstsec.com/tags/responsible-disclosure/</link>
+    <link>http://localhost:1313/tags/responsible-disclosure/</link>
     <description>Recent content in Responsible Disclosure on nstsec.com</description>
     <image>
       <title>nstsec.com</title>
@@ -10,14 +10,14 @@
       <link>https://nstsec.com/images/index.png</link>
     </image>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>it</language>
     <lastBuildDate>Wed, 02 Apr 2025 12:45:00 +0000</lastBuildDate>
-    <atom:link href="https://nstsec.com/tags/responsible-disclosure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/responsible-disclosure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bug Hunting NASA</title>
-      <link>https://nstsec.com/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</link>
+      <link>http://localhost:1313/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</link>
       <pubDate>Wed, 02 Apr 2025 12:45:00 +0000</pubDate>
-      <guid>https://nstsec.com/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</guid>
+      <guid>http://localhost:1313/posts/nasa-letter-of-recognition/nasa-letter-of-recognition/</guid>
       <description>Lettera di riconoscimento dalla NASA</description>
     </item>
   </channel>

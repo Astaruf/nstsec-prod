@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Osint on nstsec.com</title>
+    <link>https://nstsec.com/en/tags/osint/</link>
+    <description>Recent content in Osint on nstsec.com</description>
+    <image>
+      <title>nstsec.com</title>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jan 2024 12:21:33 +0200</lastBuildDate>
+    <atom:link href="https://nstsec.com/en/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Featured in HackerJournal Issue #275</title>
+      <link>https://nstsec.com/en/posts/my-contribution-featured-in-hacker-journal-275/</link>
+      <pubDate>Sat, 20 Jan 2024 12:21:33 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/my-contribution-featured-in-hacker-journal-275/</guid>
+      <description>My contribution in HackerJournal issue #275.</description>
+    </item>
+    <item>
+      <title>OSINT Challenge</title>
+      <link>https://nstsec.com/en/posts/unlock-security-osint-challenge/</link>
+      <pubDate>Thu, 21 Sep 2023 12:02:44 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/unlock-security-osint-challenge/</guid>
+      <description>How I solved Unlock Security&amp;#39;s OSINT Challenge.</description>
+    </item>
+  </channel>
+</rss>

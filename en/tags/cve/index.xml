@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cve on nstsec.com</title>
+    <link>https://nstsec.com/en/tags/cve/</link>
+    <description>Recent content in Cve on nstsec.com</description>
+    <image>
+      <title>nstsec.com</title>
+      <url>https://nstsec.com/images/index.png</url>
+      <link>https://nstsec.com/images/index.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Oct 2022 10:45:00 +0200</lastBuildDate>
+    <atom:link href="https://nstsec.com/en/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2022-44023</title>
+      <link>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44023/</link>
+      <pubDate>Sat, 29 Oct 2022 10:45:00 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44023/</guid>
+      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses</description>
+    </item>
+    <item>
+      <title>CVE-2022-44022</title>
+      <link>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44022/</link>
+      <pubDate>Sat, 29 Oct 2022 10:23:19 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44022/</guid>
+      <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Response Timings</description>
+    </item>
+    <item>
+      <title>CVE-2020-13654 - My First CVE: XSS &gt; CSRF &gt; Privesc to ADMIN</title>
+      <link>https://nstsec.com/en/posts/xwiki-xss-cve-2020-13654/</link>
+      <pubDate>Wed, 30 Dec 2020 11:19:29 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/xwiki-xss-cve-2020-13654/</guid>
+      <description>How I discovered a Stored XSS in XWiki Platform &amp;lt; 12.8, why the HttpOnly flag prevented cookie theft, and how I had to pivot the attack toward a privilege escalation via CSRF, ultimately earning my first CVE from MITRE.</description>
+    </item>
+  </channel>
+</rss>

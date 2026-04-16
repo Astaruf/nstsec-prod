@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Challenge on nstsec.com</title>
-    <link>https://nstsec.com/tags/challenge/</link>
+    <link>http://localhost:1313/tags/challenge/</link>
     <description>Recent content in Challenge on nstsec.com</description>
     <image>
       <title>nstsec.com</title>
@@ -10,21 +10,21 @@
       <link>https://nstsec.com/images/index.png</link>
     </image>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>it</language>
     <lastBuildDate>Sat, 20 Jan 2024 12:21:33 -0500</lastBuildDate>
-    <atom:link href="https://nstsec.com/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pubblicazione su HackerJournal n.275</title>
-      <link>https://nstsec.com/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</link>
+      <link>http://localhost:1313/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</link>
       <pubDate>Sat, 20 Jan 2024 12:21:33 -0500</pubDate>
-      <guid>https://nstsec.com/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</guid>
+      <guid>http://localhost:1313/posts/my-contribution-featured-in-hacker-journal-275/my-contribution-featured-in-hacker-journal-275/</guid>
       <description>Il mio contributo nell&amp;#39;uscita N.275 di HackerJournal.</description>
     </item>
     <item>
       <title>OSINT Challenge</title>
-      <link>https://nstsec.com/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</link>
+      <link>http://localhost:1313/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</link>
       <pubDate>Thu, 21 Sep 2023 12:02:44 -0500</pubDate>
-      <guid>https://nstsec.com/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</guid>
+      <guid>http://localhost:1313/posts/unlock-security-osint-challenge/unlock-security-osint-challenge/</guid>
       <description>Come ho risolto la OSINT Challenge di Unlock Security.</description>
     </item>
   </channel>
