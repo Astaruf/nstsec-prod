@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Apr 2026 18:30:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:00:00 +0200</lastBuildDate>
     <atom:link href="https://nstsec.com/it/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2026-41653: Stored XSS &gt; File Exfiltration in BentoPDF</title>
+      <link>https://nstsec.com/it/posts/bentopdf-xss-cve-2026-41653/</link>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0200</pubDate>
+      <guid>https://nstsec.com/it/posts/bentopdf-xss-cve-2026-41653/</guid>
+      <description>Come ho trovato una Stored XSS in BentoPDF (CVE-2026-41653) e l&amp;#39;ho trasformata in un payload multi-stage che esfiltra ogni file dalla vittima.</description>
+    </item>
     <item>
       <title>CVE-2026-40487: Arbitrary File Upload &gt; Stored XSS &gt; Account Takeover in Postiz</title>
       <link>https://nstsec.com/it/posts/postiz-xss-cve-2026-40487/</link>
