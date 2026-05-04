@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nstsec.com/it/tags/cloud/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/cloud/"
+                />
+  </url><url>
     <loc>https://nstsec.com/it/tags/code-review/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://nstsec.com/it/tags/cve/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +39,136 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://nstsec.com/it/tags/cve/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/posts/magicmirror-ssrf-cve-2026-42281/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/posts/magicmirror-ssrf-cve-2026-42281/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/posts/magicmirror-ssrf-cve-2026-42281/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/tags/ethical-hacking/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/ethical-hacking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/ethical-hacking/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/tags/javascript/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/javascript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/javascript/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/tags/penetration-test/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/penetration-test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/penetration-test/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/posts/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/posts/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/tags/raspberry-pi/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/raspberry-pi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/raspberry-pi/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/tags/ssrf/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/ssrf/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/ssrf/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/tags/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/"
+                />
+  </url><url>
+    <loc>https://nstsec.com/it/tags/web/</loc>
+    <lastmod>2026-05-04T22:00:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nstsec.com/en/tags/web/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://nstsec.com/it/tags/web/"
                 />
   </url><url>
     <loc>https://nstsec.com/it/posts/bentopdf-xss-cve-2026-41653/</loc>
@@ -43,97 +186,6 @@
   </url><url>
     <loc>https://nstsec.com/it/tags/esfiltrazione/</loc>
     <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://nstsec.com/it/tags/ethical-hacking/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nstsec.com/en/tags/ethical-hacking/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://nstsec.com/it/tags/ethical-hacking/"
-                />
-  </url><url>
-    <loc>https://nstsec.com/it/tags/javascript/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nstsec.com/en/tags/javascript/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://nstsec.com/it/tags/javascript/"
-                />
-  </url><url>
-    <loc>https://nstsec.com/it/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nstsec.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://nstsec.com/it/"
-                />
-  </url><url>
-    <loc>https://nstsec.com/it/tags/penetration-test/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nstsec.com/en/tags/penetration-test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://nstsec.com/it/tags/penetration-test/"
-                />
-  </url><url>
-    <loc>https://nstsec.com/it/posts/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nstsec.com/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://nstsec.com/it/posts/"
-                />
-  </url><url>
-    <loc>https://nstsec.com/it/tags/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nstsec.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://nstsec.com/it/tags/"
-                />
-  </url><url>
-    <loc>https://nstsec.com/it/tags/web/</loc>
-    <lastmod>2026-04-29T12:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nstsec.com/en/tags/web/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://nstsec.com/it/tags/web/"
-                />
   </url><url>
     <loc>https://nstsec.com/it/tags/xss/</loc>
     <lastmod>2026-04-29T12:00:00+02:00</lastmod>

@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 22:00:00 +0200</lastBuildDate>
     <atom:link href="https://nstsec.com/en/tags/code-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2026-42281: Unauthenticated SSRF in MagicMirror²</title>
+      <link>https://nstsec.com/en/posts/magicmirror-ssrf-cve-2026-42281/</link>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/magicmirror-ssrf-cve-2026-42281/</guid>
+      <description>Man in the Mirror, how I found an unauthenticated SSRF in MagicMirror² (CVE-2026-42281, CVSS 9.2 Critical)</description>
+    </item>
     <item>
       <title>CVE-2026-41653: Stored XSS &gt; File Exfiltration in BentoPDF</title>
       <link>https://nstsec.com/en/posts/bentopdf-xss-cve-2026-41653/</link>

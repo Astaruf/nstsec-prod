@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 22:00:00 +0200</lastBuildDate>
     <atom:link href="https://nstsec.com/en/tags/penetration-test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2026-42281: Unauthenticated SSRF in MagicMirror²</title>
+      <link>https://nstsec.com/en/posts/magicmirror-ssrf-cve-2026-42281/</link>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/magicmirror-ssrf-cve-2026-42281/</guid>
+      <description>Man in the Mirror, how I found an unauthenticated SSRF in MagicMirror² (CVE-2026-42281, CVSS 9.2 Critical)</description>
+    </item>
     <item>
       <title>CVE-2026-41653: Stored XSS &gt; File Exfiltration in BentoPDF</title>
       <link>https://nstsec.com/en/posts/bentopdf-xss-cve-2026-41653/</link>
@@ -49,14 +56,14 @@
       <description>Notes and essential commands for OSCP. Techniques, exploits, and strategies for exam success.</description>
     </item>
     <item>
-      <title>CVE-2022-44023</title>
+      <title>CVE-2022-44023: Username Enumeration via Response Messages in PwnDoc</title>
       <link>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44023/</link>
       <pubDate>Sat, 29 Oct 2022 10:45:00 +0200</pubDate>
       <guid>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44023/</guid>
       <description>PwnDoc &amp;lt;= 0.5.3 - Username Enumeration via Different Responses</description>
     </item>
     <item>
-      <title>CVE-2022-44022</title>
+      <title>CVE-2022-44022: Username Enumeration via Response Timing in PwnDoc</title>
       <link>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44022/</link>
       <pubDate>Sat, 29 Oct 2022 10:23:19 +0200</pubDate>
       <guid>https://nstsec.com/en/posts/pwndoc-username-enumeration-cve-2022-44022/</guid>
