@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jan 2024 12:21:33 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:20:00 +0200</lastBuildDate>
     <atom:link href="https://nstsec.com/en/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2026-44590: RCE via pull_request_target Injection &gt; Supply Chain Compromise in Sherlock</title>
+      <link>https://nstsec.com/en/posts/sherlock-rce-pull-request-target-cve-2026-44590/</link>
+      <pubDate>Thu, 07 May 2026 21:20:00 +0200</pubDate>
+      <guid>https://nstsec.com/en/posts/sherlock-rce-pull-request-target-cve-2026-44590/</guid>
+      <description>How I found an RCE via pull_request_target injection in Sherlock (CVE-2026-44590, CVSS 9.3 Critical), preventing a potential supply chain attack on a widely-used OSINT tool</description>
+    </item>
     <item>
       <title>Featured in HackerJournal Issue #275</title>
       <link>https://nstsec.com/en/posts/my-contribution-featured-in-hacker-journal-275/</link>

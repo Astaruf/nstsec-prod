@@ -18,7 +18,7 @@
       <link>https://nstsec.com/en/posts/magicmirror-ssrf-cve-2026-42281/</link>
       <pubDate>Mon, 04 May 2026 22:00:00 +0200</pubDate>
       <guid>https://nstsec.com/en/posts/magicmirror-ssrf-cve-2026-42281/</guid>
-      <description>Man in the Mirror, how I found an unauthenticated SSRF in MagicMirror² (CVE-2026-42281, CVSS 9.2 Critical)</description>
+      <description>How I found an unauthenticated SSRF in MagicMirror² (CVE-2026-42281, CVSS 9.2 Critical)</description>
     </item>
   </channel>
 </rss>
